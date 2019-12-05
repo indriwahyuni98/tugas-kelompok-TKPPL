@@ -2,8 +2,3 @@
 
 Indri hadir
 Stevi hadir
-<<<<<<< HEAD
-Hesty hadir
-=======
-Rina hadir
->>>>>>> ef2bc5c8f8ea6d66476f231fbd7ad1402e0c3e06
