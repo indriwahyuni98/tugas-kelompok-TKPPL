@@ -1,0 +1,100 @@
+Taggal 29/11/19 Scrumaster : Indri Sri Wahyuni
+
+Kegiatan Semalam :
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Kegiatan Hari Ini:
+-Indri Sri Wahyuni	:-Melakukan tes commit dengan nama file "Catatan indri"
+			 -Melakukan Edit file "Catatan indri"
+-Stevi Stince		:-Melakukan tes commit dengan nama file "Stevi isi absen"
+-Rina Yulianda		:-Melakukan tes commit dengan nama file "Rina isi absen"
+-Hesty Sinaga		:-Melakukan tes commit dengan nama file "Hesty isi absen"
+			 -Melakukan Edit file "Hesty isi absen"
+
+Masalah Yang Dihadapi:
+-Indri Sri Wahyuni	:-sempat tidak bisa melakukan commit
+-Stevi Stince		:-sempat tidak melakukan commit
+-Rina Yulianda		:
+-Hesty Sinaga		:
+
+Tanggal 2/11/19 Scrumaster : Indri Sri Wahyuni
+
+Kegiatan Semalam :
+-Indri Sri Wahyuni	:- 
+-Stevi Stince		:- 
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Kegiatan Hari Ini:
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Masalah Yang Dihadapi:
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Tanggal 3/11/19 Scrumaster : Stevi Stince
+Kegiatan Semalam :
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Kegiatan Hari Ini:
+-Indri Sri Wahyuni	:-Menambahkan isi slide 1 dengan nama file "Catatan indri"
+-Stevi Stince		:-Menambahkan isi slide 1 dengan nama file "Stevi buat catatan"
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Masalah Yang Dihadapi:
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Tanggal 4/11/19 Scrumaster: Stevi Stince 
+Kegiatan Semalam :
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Kegiatan Hari Ini:
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Masalah Yang Dihadapi:
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Tanggal 5/11/19 Scrumaster : Rina Yulianda
+Kegiatan Semalam :
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+Kegiatan Hari Ini:
+-Indri Sri Wahyuni	:-Melakukan edit Judul pada Html
+			 -Manambahkan Log Scrumaster
+-Stevi Stince		:-Menambahkan isi slide satu dengan keterangan Yi Home
+-Rina Yulianda		:-Menambahkan fungsi YI Home Camera
+			 -Menambah referensi
+-Hesty Sinaga		:-Menambah Gambar
+
+Masalah Yang Dihadapi:
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
