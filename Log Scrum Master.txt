@@ -1,4 +1,4 @@
-Taggal 29/11/19 Scrumaster : Indri Sri Wahyuni
+aqTaggal 29/11/19 Scrumaster : Indri Sri Wahyuni
 
 Kegiatan Semalam :
 -Indri Sri Wahyuni	:-
@@ -59,7 +59,7 @@ Masalah Yang Dihadapi:
 -Rina Yulianda		:-
 -Hesty Sinaga		:-
 
-Tanggal 4/11/19 Scrumaster: Stevi Stince 
+Tanggal 4/12/19 Scrumaster: Stevi Stince 
 Kegiatan Semalam :
 -Indri Sri Wahyuni	:-
 -Stevi Stince		:-
@@ -78,7 +78,7 @@ Masalah Yang Dihadapi:
 -Rina Yulianda		:-
 -Hesty Sinaga		:-
 
-Tanggal 5/11/19 Scrumaster : Rina Yulianda
+Tanggal 5/12/19 Scrumaster : Rina Yulianda
 Kegiatan Semalam :
 -Indri Sri Wahyuni	:-
 -Stevi Stince		:-
@@ -95,6 +95,35 @@ Kegiatan Hari Ini:
 
 Masalah Yang Dihadapi:
 -Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
+
+
+Tanggal 6/12/19 Scrumaster : Rina Yulianda
+Kegiatan Semalam :
+-Indri Sri Wahyuni	:-Melakukan edit Judul pada Html
+			 -Manambahkan Log Scrumaster
+-Stevi Stince		:-Menambahkan isi slide satu dengan keterangan Yi Home
+-Rina Yulianda		:-Menambahkan fungsi YI Home Camera
+			 -Menambah referensi
+-Hesty Sinaga		:-Menambah Gambar
+
+
+Kegiatan Hari Ini:
+-Indri Sri Wahyuni	:-Perubahan slide 1
+			 -Perbaikan slide 2
+			 -Mencoba merubah tampilan html
+-Stevi Stince		:-
+-Rina Yulianda		:-Kekurangan kamera yi home
+			 -Perubahan kekurangan kamera yi home
+			 -Perubahan 2 kekurangan kamera yi home
+-Hesty Sinaga		:-Kelebihan kamera yi home
+			 -Kelebihan
+			 -Kelebihan
+
+Masalah Yang Dihadapi:
+-Indri Sri Wahyuni	:-background/tampilan web belum berhasil di rubah
 -Stevi Stince		:-
 -Rina Yulianda		:-
 -Hesty Sinaga		:-
