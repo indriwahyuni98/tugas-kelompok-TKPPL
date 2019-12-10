@@ -2,3 +2,14 @@
 2.https://www.plazakamera.com/shop/xiaomi-yi-home-camera-720p/
 3.https://en.m.wikipedia.org/wiki/YI_Technology
 4.https://blog.dimensidata.com/kelebihan-fitur-cctv-xiaomi-yi-dome-camera-dan-cara-setting-nya/
+ 
+<ul>
+      <li>Smart camera yi ant tentunya</li>
+      <li>Listrik <– pasti dong</li>
+      <li>Bisa hp atau tab tablet atau gadget android atau iOS (salah satu)</li>
+      <li>Wifi access point atau wifi router atau bahasa sederhananya pemancar wifi wireless</li>
+      <li>Koneksi internet yang disambungkan ke router</li>
+      <li>Aplikasi atau software yi home di gadget (hp, tab)</li>
+      <li>Memory card tipe microSD (yang kecil), rekomendasi ukuran 32 gb dengan jenis class 10 atau kecepatan transfer data 40mb/s
+      *untuk point 4 dan 5 jika tidak memiliki wifi router atau access point ap bisa menggunakan HP nya yang sudah diset sebagai router atau tethering</li>
+    </ul>
