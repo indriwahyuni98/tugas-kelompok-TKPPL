@@ -1,4 +1,4 @@
-aqTaggal 29/11/19 Scrumaster : Indri Sri Wahyuni
+Taggal 29/11/19 Scrumaster : Indri Sri Wahyuni
 
 Kegiatan Semalam :
 -Indri Sri Wahyuni	:-
@@ -114,7 +114,7 @@ Kegiatan Hari Ini:
 -Indri Sri Wahyuni	:-Perubahan slide 1
 			 -Perbaikan slide 2
 			 -Mencoba merubah tampilan html
--Stevi Stince		:-
+-Stevi Stince		:-Edit
 -Rina Yulianda		:-Kekurangan kamera yi home
 			 -Perubahan kekurangan kamera yi home
 			 -Perubahan 2 kekurangan kamera yi home
@@ -122,8 +122,26 @@ Kegiatan Hari Ini:
 			 -Kelebihan
 			 -Kelebihan
 
-Masalah Yang Dihadapi:
+Masalah Yang Dihadapi:	
 -Indri Sri Wahyuni	:-background/tampilan web belum berhasil di rubah
 -Stevi Stince		:-
 -Rina Yulianda		:-
 -Hesty Sinaga		:-
+
+
+Tanggal 9/12/2019 Scrum Master : Hesty Sinaga
+Kegiatan Hari Ini:
+-Indri Sri Wahyuni	:-Fitur
+			 -Sejarah
+			 -Referensi
+-Stevi Stince		:-Edit Sublime
+-Rina Yulianda		:-
+-Hesty Sinaga		:-Cara mensetting
+			 -Perubahan
+			 -Edit NIM
+
+Masalah Yang Dihadapi:
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-kesulitan saat commit
