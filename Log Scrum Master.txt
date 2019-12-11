@@ -144,4 +144,21 @@ Masalah Yang Dihadapi:
 -Indri Sri Wahyuni	:-
 -Stevi Stince		:-
 -Rina Yulianda		:-
--Hesty Sinaga		:-kesulitan saat commit
+-Hesty Sinaga		:-sempat kesulitan saat commit
+
+Tanggal 11/12/2019 Scrum Master : Hesty Sinaga
+Kegiatan semalam :
+-Indri Sri Wahyuni	:-Edit html
+			 -Perbaikan slide
+			 -Referensi
+-Stevi Stince		:-
+-Rina Yulianda		:-Menghapus kelebihan
+			 -Memperbaiki kekurangan
+			 -Mengubah font nama kelompok
+-Hesty Sinaga		:-
+
+Masalah Yang Dihadapi:
+-Indri Sri Wahyuni	:-
+-Stevi Stince		:-
+-Rina Yulianda		:-
+-Hesty Sinaga		:-
